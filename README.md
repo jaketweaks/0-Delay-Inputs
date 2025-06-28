@@ -33,11 +33,3 @@ The tool utilizes **pyautogui** to simulate keyboard and mouse inputs at an extr
 2. **Custom Profiles**: You can configure the tool for **different games** with specific inputs, such as setting up macros for **farming**, **combat rotations**, or **button spamming**.
 3. **Speed Control**: Adjust the speed of key presses to make it faster or slower depending on the needs of the game you are automating.
 
----
-
-## 🎯 Getting Started
-
-### 1. Clone the Repository:
-```bash
-git clone https://github.com/yourusername/speed-macro-tool.git
-cd speed-macro-tool
